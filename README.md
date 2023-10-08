@@ -1,6 +1,16 @@
-# **OUTPUT - PHASE-1**
+# Project Title: Machine Learning Model Deployment with IBM  Cloud Watson Studio 
+# Domain : Cloud Application Development - Group 4 
+
+# Team Members :smiley:
+
+Team Leader :point_right: 	HALISH RICHARD J   | 
+
+Team member 1 :point_right: MOHAMED ATHIL M | 
+
+Team member 2 :point_right: ARUSAMY A  | 
+
+Team member 3 :point_right: RAHUL  DRAVID A  | 
 
 
-<img src="https://github.com/Halishrichard17/Cloud-Application-Development-NM/blob/main/PHASE-1/Sample program/ozone-normal-day-classification-1.png" alt="ozone-normal-day-classification-WSR0-WSR1">
-<img src="https://github.com/Halishrichard17/Cloud-Application-Development-NM/blob/main/PHASE-1/Sample program/ozone-normal-day-classification-2.png" alt="ozone-normal-day-classification-2">
-<img src="https://github.com/Halishrichard17/Cloud-Application-Development-NM/blob/main/PHASE-1/Sample program/ozone-normal-day-classification-3.png" alt="ozone-normal-day-classification-3">
+# [Assignment]
+- Phase-1 ✅
