@@ -2,14 +2,14 @@
 # Domain : Cloud Application Development - Group 4 
 
 # Team Members :smiley:
+| S.No | Name                | NM_Id | Column 3 Header |
+|---|-----------------|-----------------|-----------------|
+| 1  | HALISH RICHARD J (TL)   | au821321104010   | <a href="https://github.com/halishrichard17">halishrichard17</a>   |
+| 2 |       MOHAMED ATHIL M     | au821321104020  |    |
+| 3 |    ARUSAMY A           | au821321104004 | <a href="https://github.com/Arusamy07">Arusamy07</a>  |
+| 4 | RAHUL  DRAVID A     | au821321104027  |<a href="https://github.com/Rahuldra">Rahuldra</a>  |
 
-Team Leader :point_right: 	HALISH RICHARD J   | 
 
-Team member 1 :point_right: MOHAMED ATHIL M | 
-
-Team member 2 :point_right: ARUSAMY A  | <a href="https://github.com/Arusamy07">Arusamy07</a>
-
-Team member 3 :point_right: RAHUL  DRAVID A  | <a href="https://github.com/Rahuldra">Rahuldra</a>
 
 
 # Assignment
