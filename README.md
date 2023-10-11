@@ -2,7 +2,7 @@
 # Domain : Cloud Application Development - Group 4 
 
 # Team Members :smiley:
-| S.No | Name                | NM_Id | Column 3 Header |
+| S.No | Name                | NM_Id | Github Id |
 |---|-----------------|-----------------|-----------------|
 | 1  | HALISH RICHARD J (TL)   | au821321104010   | <a href="https://github.com/halishrichard17">halishrichard17</a>   |
 | 2 |       MOHAMED ATHIL M     | au821321104020  |    |
