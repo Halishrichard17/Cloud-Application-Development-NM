@@ -14,3 +14,6 @@ Team member 3 :point_right: RAHUL  DRAVID A  |
 
 # [Assignment]
 - Phase-1 ✅
+- Phase-2 ✅
+- Phase-3 ❌
+- Phase-4 ❌
