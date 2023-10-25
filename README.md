@@ -38,12 +38,12 @@ Technical architecture which is also often referred to as application architectu
 
 # PHASE 3
 
-1.	Create a new Cloud Pak for Data project and Cloud Object Storage service
-2.	Import require Data Set as Train and test for web phishing
-3.	Build a model with AutoAI
-4.	Deploy the model with WML
-5.	Create Job without schedule
-6.	Run the Job 
+1.	Create a new Cloud Pak for Data project and Cloud Object Storage service.
+2.	Import require Data Set as Train and test for web phishing.
+3.	Build a model with AutoAI.
+4.	Deploy the model with WML.
+5.	Create Job without schedule.
+6.	Run the Job.
 
 ![image](https://github.com/Halishrichard17/Cloud-Application-Development-NM/assets/90974013/eebcbdcb-cdb3-48b2-8391-a656d025601b)
 
@@ -53,14 +53,15 @@ Technical architecture which is also often referred to as application architectu
 2.	Copy  private end point link and API.
 3.	Develop flask program for get the Data model.
 4.	Develop web site for UI for input and output.
+   
 ![image](https://github.com/Halishrichard17/Cloud-Application-Development-NM/assets/90974013/dba4ac82-ffc7-4c68-a333-c30a8ea17d82)
 
 
 
-Prerequisites
-•	An IBM Cloud Account
-•	An account on IBM Cloud Pak for Data.
-•	Python2.7 (Flask,Pickel)
+# Prerequisites <br>
+•	An IBM Cloud Account.<br>
+•	An account on IBM Cloud Pak for Data.<br>
+•	Python2.7 (Flask,Pickel).<br>
 
 
 
