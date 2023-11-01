@@ -15,7 +15,7 @@
 - <a href="https://github.com/Halishrichard17/Cloud-Application-Development-NM/tree/main/PHASE-2"> Phase-2 ✅</a> 
 - <a href="https://github.com/Halishrichard17/Cloud-Application-Development-NM/tree/main/PHASE-3"> Phase-3 ✅</a> 
 - <a href="https://github.com/Halishrichard17/Cloud-Application-Development-NM/tree/main/PHASE-4"> Phase-4 ✅</a> 
-- <a href="https://github.com/Halishrichard17/Cloud-Application-Development-NM/tree/main/PHASE-5"> Phase-5 ❌</a> 
+- <a href="https://github.com/Halishrichard17/Cloud-Application-Development-NM/tree/main/PHASE-5"> Phase-5 ✅</a> 
 
 # PHASE 1 <br>"
 <p>
