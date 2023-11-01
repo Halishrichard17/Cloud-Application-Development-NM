@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- Primary Meta Tags -->
+<title>HookPhish</title>
+
+
+<!-- Fontawesome -->
+<link type="text/css" href="../static/vendor/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+<!-- Pixel CSS -->
+<link type="text/css" href="../static/css/neumorphism.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <header class="header-global">
+   
+</header>
+    <main>
+
+        <!-- Result -->
+        <div class="section section-header pb-7">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-8 text-center">
+                        <h1 class="display-2 mb-4">Result</h1>
+                        <p class="lead">Is <a href= {{ url }} target="_blank">{{ url }}</a> safe to use?</p>
+                        <br>
+                        <h3><pre>{{ msg }}</pre></h3>
+                        <br>
+                       
+                        <br>
+                        <br>
+                        <br>
+                        <button type="submit" class="btn btn-primary button1" onclick="window.open('{{url}}')" target="_blank"><span class="fa fa-arrow-up mr-2"></span>Proceed to this site!</button>
+                    </div>
+            </div>        
+        </div>  
+    </div>
+    </main>
+
+      
+       
+
+    <!-- Core -->
+<script src="../static/vendor/jquery/dist/jquery.min.js"></script>
+<script src="../static/vendor/popper.js/dist/umd/popper.min.js"></script>
+<script src="../static/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="../static/vendor/headroom.js/dist/headroom.min.js"></script>
+
+<!-- Vendor JS -->
+<script src="../static/vendor/onscreen/dist/on-screen.umd.min.js"></script>
+<script src="../static/vendor/nouislider/distribute/nouislider.min.js"></script>
+<script src="../static/vendor/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+<script src="../static/vendor/waypoints/lib/jquery.waypoints.min.js"></script>
+<script src="../static/vendor/jarallax/dist/jarallax.min.js"></script>
+<script src="../static/vendor/jquery.counterup/jquery.counterup.min.js"></script>
+<script src="../static/vendor/jquery-countdown/dist/jquery.countdown.min.js"></script>
+<script src="../static/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+<script src="../static/vendor/prismjs/prism.js"></script>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- Neumorphism JS -->
+<script src="../static/assets/js/neumorphism.js"></script>
+
+<script>
+    let x= '{{val}}'
+    if(x==1){
+        document.getElementById('phishing').style.display = 'none';
+    }else{
+        document.getElementById('legitimate').style.display = 'none';
+    }
+</script>
+</body>
+
+</html>
